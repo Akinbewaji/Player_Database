@@ -7,12 +7,12 @@ const App = () => {
     <>
       <div className="container">
         <div className="header">
-          <p>PLAYERS DATABASE</p>
+          <p>BEST PLAYERS OF ALL TIME IN NO SPECIFIC ORDER</p>
         </div>
         <div className="grid">
           <PlayerCard
             playerImg="./images/LM10.png"
-            playerName="Lionel Messi"
+            playerName="Lionel Messi [La Pulga][G.O.A.T]"
             teamName="Inter Miami"
             nationality="Argentina"
             position="Forward"
